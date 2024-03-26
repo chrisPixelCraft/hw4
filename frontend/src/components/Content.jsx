@@ -12,8 +12,8 @@ const Content = () => {
         <div className="container px-4">
           <h1 className="text-3xl sm:text-5xl mb-6">自我介紹既作品集</h1>
           <p className="text-sm sm:text-lg">
-            大家好，我是電機三的謝銘倫。我的興趣是做設計，
-            是個沒修過網導來修網路攻防實習的菜鳥，請教授還有助教多多幫忙，謝謝您們！
+            嗨大家好，我是電機三的謝銘倫。我的興趣是做設計，
+            是個沒修過網導來修網路攻防實習的菜鳥，請教授還有助教和同學們多多幫忙，謝謝您們！
           </p>
         </div>
       </section>
